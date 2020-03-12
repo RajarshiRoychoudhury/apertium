@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+
+    <alphabet>কখগঘঙচছজঝঞটঠডঢণতথদধনপফবভময়ড়ঢ়যরলহশষস্অআইঈউঊািীুূঋৠঌৡএঐওঔৃৄৢৣৈেোৌৎৗঁংঃ়ঽ</alphabet>
+
+    <sdefs>
+        <sdef n="n"   c="Noun" />
+        <sdef n="vb"  c="Verb" />
+        <sdef n="sg"  c="Singular"/>
+        <sdef n="pl"  c="Plural"/>
+        <sdef n="adj"  c="Adjective"/>
+        <sdef n="adv"  c="Adverb"/>
+        <sdef n="con"  c="Conjunction"/>
+        <sdef n="int"   c="Interjection"/>
+    </sdefs>
+
+    <section id="main" type="standard">
+        <e lm="kothay"><p> <i>কোথায়</i></p></e>
+    </section>
+</dictionary>
+
