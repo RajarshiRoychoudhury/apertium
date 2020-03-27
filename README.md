@@ -6,8 +6,6 @@ English. What you can use this language package for:
 * Morphological analysis of Bengali and English
 * Part-of-speech tagging of Bengali and English (under development)
 
-For information on the latter two points, see subheading "For more 
-information" below
 Files and data
 ===============================================================================
 
