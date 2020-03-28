@@ -1,10 +1,10 @@
 # apertium
 This is an Apertium language pair for translating between Bengali and 
-English. What you can use this language package for:
+Hindi. What you can use this language package for:
 
-* Translating between Bengali and English (under development)
-* Morphological analysis of Bengali and English
-* Part-of-speech tagging of Bengali and English (under development)
+* Translating between Bengali and Hindi (under development)
+* Morphological analysis of Bengali and Hindi
+* Part-of-speech tagging of Bengali and Hindi (under development)
 
 Files and data
 ===============================================================================
